@@ -1,5 +1,5 @@
 # Curso Git
 
-Curso Git Mastermind
+Git prueba 
 
-Version 1
+Esto es solo una version de prueba realizada para hacer pruebas 
